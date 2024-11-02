@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/JohnnyArachnid/Front-End-Developer-Capstone",
+  "homepage": "https://github.com/JohnnyArachnid",
   "scripts": {
     "dev": "vite",
     "start": "vite",
